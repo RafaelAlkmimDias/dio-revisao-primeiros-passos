@@ -1,0 +1,1 @@
+# código prático simples feito durante última aula de dotnet do curso de primeiros passos com .net e csharp do digital innovation one. utilizado para visualizar na pratica o uso dos diversos ensinamentos do curso. 
